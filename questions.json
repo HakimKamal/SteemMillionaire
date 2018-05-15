@@ -1,0 +1,79 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "One of the following is odd?",
+		            "content" : [
+		                "busy.org",
+		                "utopian-io",
+		                "steemit.com",
+		                "hopscotch.com"
+		            ],
+		            "correct" : 3
+		        },
+                        {   "question" : "SBD stands for one of the following",
+                            "content" : [
+                                "Solomon Bing Dues",
+                                "Steem Backed Dollars",
+                                "Steemit Bringing Dollars",
+                                "Slow Back Dollars"
+                            ],
+                            "correct" : 1
+                        },
+                        {
+		            "question" : "On a radio, stations are changed by using what control?",
+		            "content" : [
+		                "Tuning",
+		                "Volume",
+		                "Bass",
+		                "Treble"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Steemit was launched in?",
+		            "content" : [
+		                "March 2016",
+		                "February 2016",
+		                "March 2015",
+		                "February 2015"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "where is the headquaters of Steemit Inc?",
+		            "content" : [
+		                "California",
+		                "Virginia",
+		                "Texas",
+		                "Silicon Valley"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The D in d.tube and d.live stands for?",
+		            "content" : [
+		                "Distributed",
+		                "Decentralized",
+		                "Digitalize",
+		                "None of the above"
+		            ],
+		            "correct" : 1
+		        },
+                        
+                        {
+		            "question" : "In 1893, what country was the first to grant women the right to vote?",
+		            "content" : [
+		                "Canada",
+		                "Sweden",
+		                "New Zealand",
+		                "Denmark"
+		            ],
+		            "correct" : 2
+		        }
+		    ]
+		}
+	]
+}
+                 
