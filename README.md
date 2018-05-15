@@ -1,5 +1,9 @@
 # SteemMillionaire
 A Steem version of -who wants to be a millionaire-
+
+# Contributions
+Contributions are welcome
+
 # Usage
 
 To "install" this game, you will need a simple webserver that can serve static files (Apache will do). You simply upload this git repository into a folder on the web server, and access index.html in your browser.
